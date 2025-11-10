@@ -1,7 +1,6 @@
 Flask==2.2.2
 werkzeug==2.2.2
 torch>=2.5.0
-mediapipe>=0.10.9
 opencv-python
 numpy
 requests
